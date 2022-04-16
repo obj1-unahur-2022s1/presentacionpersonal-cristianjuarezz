@@ -2,7 +2,7 @@
 - [x] Estudio en Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Licenciatura en Informática
 
-- [x] [Este](https://obj1-unahur.github.io/) es mi portafolios, pero aun está incompleto je
+- [x] [Este](https://cristianjuarezz.github.io/) es mi portafolios, pero aun está incompleto je
 - [x] Me interesa el desarrollo de software y la seguridad informática.
 
 ## Este cuatrimestre 
@@ -13,9 +13,7 @@
 
 ## Mis favoritos para aprender [HTTP](https://http.cat)
 
-_Yup_
 ![Yup](https://http.cat/407)
-
 
 _POV: Sos programador_
 ![POV: Sos programador](https://http.cat/402)
