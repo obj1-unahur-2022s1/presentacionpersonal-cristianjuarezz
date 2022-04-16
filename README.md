@@ -11,8 +11,13 @@
 * Usaremos [Wollok](https://wollok.org) y [GitHub](https://github.com)!
 
 ## Mis favoritos para aprender [HTTP](https://http.cat)
+###Yup
 ![Yup](https://http.cat/407)
+
+###POV: Sos programador
 ![POV: Sos programador](https://http.cat/402)
+
+###Porque mi código funciona..?
 ![Porque mi código funciona..?](https://http.cat/102)
 
 *Gracias por leer! Happy Coding.*
